@@ -14,7 +14,7 @@ fun main(){
 
     var t5 = TestClass4(1, 1)
     t5.testMethod4()
-ㅎ
+    
     var t6 = TestClass4()
     t6.testMethod4()
 
